@@ -1,2 +1,1 @@
-# mobile_phone_price_analysis
- 
+# kaggle: https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price 
